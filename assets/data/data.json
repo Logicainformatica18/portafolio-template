@@ -1,128 +1,191 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
-    "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+  "title": "Anthony Code",
+  "description": "Soy Anthony Code",
+  "image": "/avatar.jpg",
+  "avatar": "/avatar.jpg",
+  "name": "Anthony R. Cardenas Aquino (Anthony Code)",
+  "skill": "Docente, programador Web y DBA",
+  "location": "Perú",
+  "media": {
+    "email": "logicainformatica18@gmail.com",
+    "cv": "/data/cv.pdf",
+    "github": "https://github.com/logicainformatica18",
+    "likedin": "https://www.linkedin.com/in/anthony-cardenas-aquino-01a645141/"
+  },
+  "about": "Soy una persona dedicada al mundo de la educación y tecnología y comprometida con el aprendizaje constante. Mi enfoque principal se encuentra en el desarrollo web y bases de datos relacionales, y tengo un gran interés por explorar diferentes tecnologías.",
+  "technologies": [
+    {
+      "icon": "devicon-laravel-original",
+      "name": "Laravel"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
-    "technologies": [
+    {
+      "icon": "devicon-microsoftsqlserver-plain",
+      "name": "MS SQL Server"
+    },
+    {
+      "icon": "devicon-mysql-original",
+      "name": "MySQL - MariaDB"
+    },
+    {
+      "icon": "devicon-oracle-original",
+      "name": "Oracle"
+    },
+    {
+      "icon": "devicon-php-plain",
+      "name": "PHP"
+    },
+    {
+      "icon": "devicon-python-plain",
+      "name": "Python For Data Science"
+    },
+    {
+      "icon": "devicon-react-original",
+      "name": "React Native"
+    },
+    {
+      "icon": "devicon-azuredevops-plain",
+      "name": "Azure Devops"
+    }
+  ],
+  "experience": [
+    {
+      "icon": "terminal",
+      "title": "SQC LEARNING",
+      "subtitle": "Programador Web y Docente de SQL - EXCEL",
+      "description": "Expositor de cursos y talleres virtuales",
+      "date": "2021 - Actualidad"
+    },
+    {
+      "icon": "terminal",
+      "title": "I.S.T. CESCA",
+      "subtitle": "Docente & Programador Web",
+      "description": "Dicté clases presenciales en la institución de nivel superior en diferentes ciclos cursos como : Análisis de Sistemas, UML, PHP, Oracle, Ofimática.",
+      "date": "2017 - 2021"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "bar-chart-4",
+      "title": "SDC CERTIFICATE",
+      "subtitle": "Sistema de Certificaciones Online para SDC LEARNING",
+      "description": "Desarrollé el sistema desde el análisis y modelado del sistema al despliegue en hostinguer",
+      "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+          "icon": "devicon-laravel-original",
+          "name": "Laravel 10"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+          "icon": "devicon-mysql-original",
+          "name": "MySQL"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+          "icon": "devicon-bootstrap-plain",
+          "name": "BootStrap 4"
         },
+
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
-        },
-        {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+          "icon": "devicon-axios-plain",
+          "name": "Axios"
         }
-    ],
-    "experience": [
+      ],
+      "image": "/cert.png",
+      "url": "https://www.sdc-certificate.com/certificaciones/registry_detail_id=410/language=spanish/id=AF01-2024-009/cert=1",
+      "github": "https://github.com/Logicainformatica18/certificado"
+    },
+    {
+      "icon": "bar-chart-4",
+      "title": "SDC FORMULARIOS",
+      "subtitle": "Sistema de encuestas",
+      "description": "Debido al requerimiento de más funcionalidades en google forms, cree este proyecto por iniciativa propia y que nos sirvió para realizar encuestas para un proyecto de Gobierno de Datos del MEF.",
+      "technologies": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+          "icon": "devicon-laravel-original",
+          "name": "Laravel 10"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+          "icon": "devicon-mysql-original",
+          "name": "MySQL"
+        },
+        {
+          "icon": "devicon-bootstrap-plain",
+          "name": "BootStrap 4"
+        },
+        {
+          "icon": "devicon-axios-plain",
+          "name": "Axios"
         }
-    ],
-    "projects": [
+      ],
+      "image": "/proyecto_2.png",
+      "url": "https://sdc-formularios.com",
+      "github": "https://github.com/Logicainformatica18/encuestas"
+    },
+    {
+      "icon": "bar-chart-4",
+      "title": "BIBLIOTECA VIRTUAL CESCA",
+      "subtitle": "Sistema de registros académicos y recursos",
+      "description": "Cree este proyecto para mi centro de estudios donde también enseñaba con el fin de tener en un solo lugar las notas de mis estudiantes y que ellos las pudieran ver.",
+      "technologies": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
-            "technologies": [
-                {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+          "icon": "devicon-laravel-original",
+          "name": "PHP"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+          "icon": "devicon-mysql-original",
+          "name": "MySQL"
+        },
+        {
+          "icon": "devicon-materializecss-plain",
+          "name": "Materialize"
+        },
+        {
+          "icon": "devicon-jquery-plain",
+          "name": "JQuery"
         }
-    ],
-    "training": [
-        {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        }
-    ],
-    "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
-    ]
+      ],
+      "image": "/cesca.jpg",
+      "url": "cesca.anthonycode.com",
+      "github": "https://github.com/Logicainformatica18/biblioteca_virtual"
+    }
+  ],
+  "training": [
+    {
+      "icon": "backpack",
+      "title": "SDC LEARNING",
+      "subtitle": "Scrum Master - Azure",
+      "description": "Certificaciones online.",
+      "date": "2024",
+      "certificate": ""
+    },
+    {
+      "icon": "backpack",
+      "title": "Platzi",
+      "subtitle": "Scrum - Git & Github, POO, SCRUM",
+      "description": "Certificaciones online.",
+      "date": "2019",
+      "certificate": ""
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "I.S.T. CESCA",
+      "subtitle": "Computación e Informática",
+      "description": "Titulado",
+      "date": "2016 - 2018",
+      "certificate": "https://www.cesca.edu.pe"
+    }
+  ],
+  "extras": [
+    {
+      "image": "/sdc.jpg",
+      "title": "Capacitación Sql Server",
+      "description": "2023",
+      "url": ""
+    },
+
+    {
+      "image": "/cesca_alumnos.jpg",
+      "title": "Cesca Sede Ate - vitarte",
+      "description": "2018",
+      "url": ""
+    }
+  ]
 }
